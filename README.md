@@ -1,5 +1,5 @@
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username={TsujiEisho})
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TsujiEisho)
 	
 ![Kanna's github stats](https://github-readme-stats.vercel.app/api?username=TsujiEisho)
 
